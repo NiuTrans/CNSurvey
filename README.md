@@ -1,57 +1,54 @@
 # 中文综述文章列表（自然语言处理&机器学习）
 
-在本项目中，我们整理了《中文信息学报》、《计算机学报》、《软件学报》、《自动化学报》近年来在自然语言处理和机器学习领域的综述论文，将其按照不同热门话题进行分类，并提供了论文的网址。
+在本项目中，我们整理了中文信息学报、计算机学报、软件学报、自动化学报主要期刊近年来在自然语言处理和机器学习领域的综述论文，将其按照不同热门话题进行分类，并提供了论文的获取网址。
 
 ## 类别索引
 
 #### 自然语言处理
 
-> - <a href="#语言学">语言学</a>
-> - <a href="#受限语言">受限语言</a>
-> - <a href="#自动校对">自动校对</a>
-> - <a href="#中文信息处理">中文信息处理</a>
-> - <a href="#词义消歧">词义消歧</a>
-> - <a href="#句法分析">句法分析</a>
-> - <a href="#语义空间">语义空间</a>
-> - <a href="#事件关系">事件关系</a>
-> - <a href="#虚词">虚词</a>
-> - <a href="#汉语复句">汉语复句</a>
-> - <a href="#词汇表示">词汇表示</a>
-> - <a href="#语义理解">语义理解</a>
-> - <a href="#关键词提取">关键词提取</a>
-> - <a href="#语法纠错">语法纠错</a>
-> - <a href="#篇章分析">篇章分析</a>
-> - <a href="#自然语言处理">自然语言处理</a>
-> - <a href="#汉语文本压缩">汉语文本压缩</a>
-> - <a href="#复述">复述</a>
-> - <a href="#文本处理">文本处理</a>
-> - <a href="#叙事生成">叙事生成</a>
-> - <a href="#单词表示">单词表示</a>
-> - <a href="#跨语言词向量">跨语言词向量</a>
-> - <a href="#文本挖掘">文本挖掘</a>
-> - <a href="#数据挖掘">数据挖掘</a>
-> - <a href="#排序学习">排序学习</a>
-> - <a href="#文本摘要">文本摘要</a>
-> - <a href="#主题模型">主题模型</a>
-> - <a href="#机器翻译">机器翻译</a>
-> - <a href="#多模态">多模态</a>
-> - <a href="#对话系统">对话系统</a>
-> - <a href="#计算社会科学">计算社会科学</a>
-> - <a href="#信息抽取">信息抽取</a>
-> - <a href="#文本识别">文本识别</a>
-> - <a href="#信息检索">信息检索</a>
-> - <a href="#实体推荐">实体推荐</a>
-> - <a href="#情感分析">情感分析</a>
-> - <a href="#知识图谱">知识图谱</a>
-> - <a href="#推荐系统">推荐系统</a>
-> - <a href="#问答系统">问答系统</a>
-> - <a href="#阅读理解">阅读理解</a>
-> - <a href="#文本可读性分析">文本可读性分析</a>
-> - <a href="#资源与评价方法">资源与评价方法</a>
-> - <a href="#机器学习">机器学习</a>
-> - <a href="#语言工程">语言工程</a>
-> - <a href="#指代消解">指代消解</a>
-> - <a href="#自然语言处理应用">自然语言处理应用</a>
+> - 文本处理
+>   - <a href="#文本表示">文本表示</a>
+>   - <a href="#句法分析">句法分析</a>
+>   - <a href="#语义分析">语义分析</a>
+>   - <a href="#篇章分析">篇章分析</a>
+>   - <a href="#文本匹配">文本匹配</a>
+>   - <a href="#文本纠错">文本纠错</a>
+>   - <a href="#词义消歧">词义消歧</a>
+>   - <a href="#指代消解">指代消解</a>
+>   - <a href="#语言学">语言学</a>
+>   - <a href="#中文信息处理">中文信息处理</a>
+> - 文本挖掘
+>   - <a href="#关键词提取">关键词提取</a>
+>   - <a href="#信息抽取">信息抽取</a>
+>   - <a href="#文档聚类">文档聚类</a>
+>   - <a href="#文本分类">文本分类</a>
+>   - <a href="#主题模型">主题模型</a>
+>   - <a href="#情感分析">情感分析</a>
+>   - <a href="#事件关系检测">事件关系检测</a>
+> - 顶层任务
+>   - <a href="#机器翻译">机器翻译</a>
+>   - <a href="#文本复述">文本复述</a>
+>   - <a href="#文本摘要">文本摘要</a>
+>   - <a href="#叙事生成">叙事生成</a>
+>   - <a href="#阅读理解">阅读理解</a>
+>   - <a href="#对话系统">对话系统</a>
+>   - <a href="#问答系统">问答系统</a>
+> - 其他应用
+>   - <a href="#受控自然语言">受控自然语言</a>
+>   - <a href="#文本可读性">文本可读性</a>
+>   - <a href="#语言工程">语言工程</a>
+>   - <a href="#计算社会科学">计算社会科学</a>
+>   - <a href="#本体构建">本体构建</a>
+>   - <a href="#知识图谱">知识图谱</a>
+>   - <a href="#信息检索">信息检索</a>
+>   - <a href="#推荐系统">推荐系统</a>
+>   - <a href="#语义搜索">语义搜索</a>
+>   - <a href="#实体推荐">实体推荐</a>
+> - 多模态
+>   - <a href="#图像处理">图像处理</a>
+>   - <a href="#语音处理">语音处理</a>
+>   - <a href="#手语处理">手语处理</a>
+> - <a href="#其它">其它</a>
 >
 
 #### 机器学习
@@ -79,178 +76,174 @@
 
 ## 自然语言处理论文列表
 
-#### [语言学](#content)
+#### [文本处理](#content)
 
-1. **汉语零形回指消解研究综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/Y2020/V34/I3/1)
-   *蒋玉茹,张禹尧,毛腾,张仰森*
-2. **汉语零形回指研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1211)
-   *黄娴,张克亮*
+##### [文本表示](#content)
 
-#### [受限语言](#content)
+1. **跨语言词向量研究综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2900)
+   *彭晓娅,周栋*
+2. **分布式单词表示综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/42-7-10-201974193022.pdf)
+   *孙飞,郭嘉丰,兰艳艳,徐君,程学旗*
+3. **词汇语义表示研究综述** 中文信息学报 2016 [论文](http://jcip.cipsc.org.cn/CN/abstract/abstract2267.shtml)
+   *袁书寒,向阳*
 
-1. **受限语言子集的理论研究和探索** 中文信息学报 1998 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=614)
-   *宗成庆,宋今,陈肇雄,黄河燕*
-
-#### [自动校对](#content)
-
-1. **中文文本自动校对技术现状及展望** 中文信息学报 1998 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=653)
-   *张仰森,丁冰青*
-
-#### [中文信息处理](#content)
-
-1. **国际化文字处理综述** 中文信息学报 2006 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1986)
-   *芮建武,吴健,孙玉芳*
-2. **现状和设想——试论中文信息处理与现代汉语研究** 中文信息学报 2001 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1068)
-   *许嘉璐*
-3. **条形码与中文信息处理** 中文信息学报 1991 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=452)
-   *张凡,徐伟中,任煜,崔玉华,杨建锋*
-4. **中文信息处理在中国的发展** 中文信息学报 1990 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=422)
-   *苏东庄,袁琦*
-
-#### [词义消歧](#content)
-
-1. **词义标注语料库建设综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=981)
-   *金澎,吴云芳,俞士汶*
-2. **歧义、系统歧义和语境** 中文信息学报 1993 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=540)
-   *钱树人*
-
-#### [句法分析](#content)
+##### [句法分析](#content)
 
 1. **句法分析前沿动态综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2996)
    *屠可伟,李俊*
-2. **基于统计学习模型的句法分析方法综述** 中文信息学报 2013 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1711)
+2. **汉语介词短语自动识别研究综述** 中文信息学报 2017 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2350)
+   *李洪政,晋耀红*
+3. **基于统计学习模型的句法分析方法综述** 中文信息学报 2013 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1711)
    *吴伟成,周俊生,曲维光*
-3. **汉语组块分析研究综述** 中文信息学报 2013 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1710)
+4. **汉语组块分析研究综述** 中文信息学报 2013 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1710)
    *李业刚,黄河燕*
-4. **面向语料库标注的汉语依存体系的探讨** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=521)
+5. **面向语料库标注的汉语依存体系的探讨** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=521)
    *周明,黄昌宁*
 
-#### [语义空间](#content)
+##### [语义分析](#content)
 
-1. **基于语义的网络大数据组织与搜索** 计算机学报 2015 [论文](http://cjc.ict.ac.cn/online/onlinepaper/wcq-201511694358.pdf)
-   *吴纯青,任沛阁,王小峰*
-
-#### [事件关系](#content)
-
-1. **事件关系检测的任务体系概述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=227)
-   *杨雪蓉,洪宇,陈亚东,姚建民,朱巧明*
-
-#### [虚词](#content)
-
-1. **现代汉语虚词用法知识库建设综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=250)
-   *张坤丽,昝红英,柴玉梅,韩英杰,赵丹*
-
-#### [汉语复句](#content)
-
-1. **汉语复句信息处理研究二十年** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=33)
-   *吴锋文*
-2. **汉语复句的结构分析** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=528)
-   *张仕仁*
-
-#### [词汇表示](#content)
-
-1. **词汇语义表示研究综述** 中文信息学报 2016 [论文](http://jcip.cipsc.org.cn/CN/abstract/abstract2267.shtml)
-   *袁书寒,向阳*
-
-#### [语义理解](#content)
-
-1. **时空数据语义理解:技术与应用** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5576&year_id=2018&quarter_id=7&falg=1)
-   *姚迪,张超,黄建辉,陈越新,毕经平*
-2. **基于语义分析的情感计算技术研究进展** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5564&year_id=2018&quarter_id=8&falg=1)
+1. **基于语义分析的情感计算技术研究进展** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5564&year_id=2018&quarter_id=8&falg=1)
    *饶元,吴连伟,王一鸣,冯聪*
-3. **语义表达的一些性质** 中文信息学报 1991 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=439)
+2. **语义表达的一些性质** 中文信息学报 1991 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=439)
    *张潮生*
-4. **信息处理用现代汉语语义分析的理论与方法** 中文信息学报 1991 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=459)
+3. **信息处理用现代汉语语义分析的理论与方法** 中文信息学报 1991 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=459)
    *张普*
 
-#### [关键词提取](#content)
-
-1. **特征驱动的关键词提取算法综述** 软件学报 2018 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5538&year_id=2018&quarter_id=7&falg=1)
-   *常耀成,张宇翔,王红,万怀宇,肖春景*
-
-#### [语法纠错](#content)
-
-1. **英语学习者书面语法错误自动检测研究综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2491)
-   *刘磊, 梁茂成*
-
-#### [篇章分析](#content)
+##### [篇章分析](#content)
 
 1. **面向意图性的篇章话题结构分析研究与展望** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/xxf-2019121090014.pdf)
    *奚雪峰,孙庆英,周国栋*
 2. **篇章分析技术综述** 中文信息学报 2013 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1712)
    *徐凡,朱巧明,周国栋*
 
-#### [自然语言处理](#content)
+##### [文本匹配](#content)
 
-1. **中亚语言自然语言处理综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2560)
-   *吐尔根·依布拉音,卡哈尔江·阿比的热西提,艾山·吾买尔等*
-2. **受控自然语言的应用和处理** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2642)
-   *薛平*
-3. **面向自然语言处理的深度学习研究** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18934)
-   *奚雪峰,周国栋*
+1. **深度文本匹配综述** 计算机学报 2017 [论文](http://cjc.ict.ac.cn/online/onlinepaper/pl-201745181647.pdf)
+   *庞亮,兰艳艳,徐君,郭嘉丰,万圣贤,程学旗*
 
-#### [汉语文本压缩](#content)
+##### [文本纠错](#content)
 
-1. **汉语文本压缩研究及其应用** 中文信息学报 1997 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=672)
+1. **英语学习者书面语法错误自动检测研究综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2491)
+   *刘磊, 梁茂成*
+2. **中文文本自动校对技术现状及展望** 中文信息学报 1998 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=653)
+   *张仰森,丁冰青*
+
+##### [词义消歧](#content)
+
+1. **词义标注语料库建设综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=981)
+   *金澎,吴云芳,俞士汶*
+2. **歧义、系统歧义和语境** 中文信息学报 1993 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=540)
+   *钱树人*
+
+##### [指代消解](#content)
+
+1. **指代消解的基本方法和实现技术** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/Y2002/V16/I6/10)
+   *王厚峰*
+2. **共指消解研究方法综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=32)
+   *宋洋,王厚峰*
+3. **指代消解的基本方法和实现技术** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1277)
+   *王厚峰*
+
+##### [语言学](#content)
+
+1. **汉语零形回指消解研究综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/Y2020/V34/I3/1)
+   *蒋玉茹,张禹尧,毛腾,张仰森*
+2. **汉语零形回指研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1211)
+   *黄娴,张克亮*
+3. **现代汉语虚词用法知识库建设综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=250)
+   *张坤丽,昝红英,柴玉梅,韩英杰,赵丹*
+4. **汉语复句信息处理研究二十年** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=33)
+   *吴锋文*
+5. **汉语复句的结构分析** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=528)
+   *张仕仁*
+
+##### [中文信息处理](#content)
+
+1. **词汇计量研究与常用词知识库建设** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=252)
+   *俞士汶,朱学锋*
+2. **国际化文字处理综述** 中文信息学报 2006 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1986)
+   *芮建武,吴健,孙玉芳*
+3. **汉字键盘输入智能处理软件综述** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1306)
+   *陈一凡,朱亮*
+4. **现状和设想——试论中文信息处理与现代汉语研究** 中文信息学报 2001 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1068)
+   *许嘉璐*
+5. **汉语文本压缩研究及其应用** 中文信息学报 1997 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=672)
    *王忠效*
+6. **条形码与中文信息处理** 中文信息学报 1991 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=452)
+   *张凡,徐伟中,任煜,崔玉华,杨建锋*
+7. **中文信息处理在中国的发展** 中文信息学报 1990 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=422)
+   *苏东庄,袁琦*
+8. **中文信息处理系统的性能准则——内部码、汉化程度及其它** 中文信息学报 1989 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=407)
+   *戴瀛洲,李成国*
+9. **浅谈汉英终端的发展和方略** 中文信息学报 1988 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=305)
+   *梁先宇,孔令人*
 
-#### [复述](#content)
+#### [关键词提取](#content)
 
-1. **复述技术研究综述** 中文信息学报 2006 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2022)
-   *刘挺,李维刚,张宇,李生*
-
-#### [文本处理](#content)
+##### [关键词提取](#content)
 
 1. **自动术语抽取研究综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6040&year_id=2020&quarter_id=7&falg=1)
    *张雪,孙宏宇,辛东兴,等*
-2. **自动关键词抽取研究综述** 软件学报 2017 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5301&year_id=2017&quarter_id=9&falg=1)
+2. **特征驱动的关键词提取算法综述** 软件学报 2018 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5538&year_id=2018&quarter_id=7&falg=1)
+   *常耀成,张宇翔,王红,万怀宇,肖春景*
+3. **自动关键词抽取研究综述** 软件学报 2017 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5301&year_id=2017&quarter_id=9&falg=1)
    *赵京胜,朱巧明,周国栋,等*
 
-#### [叙事生成](#content)
+##### [信息抽取](#content)
 
-1. **叙事生成方法研究综述** 中文信息学报 2013 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1713)
-   *诸峰,曹存根*
+1. **深度学习实体关系抽取研究综述** 软件学报 2019 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5817&year_id=2019&quarter_id=6&falg=1)
+   *鄂海红,张文静,肖思琪,程瑞,胡莺夕,周筱松,牛佩晴*
+2. **基于远程监督的关系抽取研究综述** 中文信息学报 2019 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2841)
+   *白龙,靳小龙,席鹏弼,程学旗*
+3. **基于深度学习的关系抽取研究综述** 中文信息学报 2019 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2871)
+   *庄传志,靳小龙,朱伟建,刘静伟,白龙,程学旗*
+4. **否定与不确定信息抽取研究综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=226)
+   *邹博伟,周国栋,朱巧明*
 
-#### [单词表示](#content)
+##### [文档聚类](#content)
 
-1. **分布式单词表示综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/42-7-10-201974193022.pdf)
-   *孙飞,郭嘉丰,兰艳艳,徐君,程学旗*
+1. **文档聚类综述** 中文信息学报 2006 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1997)
+   *刘远超,王晓龙,徐志明,关毅*
 
-#### [跨语言词向量](#content)
+##### [文本分类](#content)
 
-1. **跨语言词向量研究综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2900)
-   *彭晓娅,周栋*
+1. **基于内容的垃圾邮件过滤技术综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2066)
+   *王斌,潘文锋*
 
-#### [文本挖掘](#content)
-
-1. **文本意见挖掘综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=989)
-   *姚天昉,程希文,徐飞玉,汉思·乌思克尔特,王睿*
-2. **自动文摘评价方法综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=990)
-   *张瑾,王小磊,许洪波*
-
-#### [数据挖掘](#content)
-
-1. **带通配符和One-Off条件的序列模式挖掘** 软件学报 2013 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=4422&journal_id=jos)
-   *吴信东,谢飞,黄咏明,胡学钢,高隽*
-
-#### [排序学习](#content)
-
-1. **排序学习研究进展与展望** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170246)
-   *李金忠, 刘关俊, 闫春钢, 蒋昌俊*
-
-#### [文本摘要](#content)
-
-1. **文本摘要常用数据集和方法研究综述** 中文信息学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/pl-201745181647.pdf)
-   *侯圣峦,张书涵,费超群*
-
-#### [主题模型](#content)
+##### [主题模型](#content)
 
 1. **基于深度学习的主题模型研究** 计算机学报 2020 [论文](http://cjc.ict.ac.cn/online/onlinepaper/hjj-2020514180351.pdf)
    *黄佳佳,李鹏伟,彭敏,谢倩倩,徐超*
 2. **自然语言处理中主题模型的发展** 计算机学报 2011 [论文](http://cjc.ict.ac.cn/quanwenjiansuo/2011-8/xg.pdf)
    *徐戈,王厚峰*
 
-#### [机器翻译](#content)
+##### [情感分析](#content)
+
+1. **跨领域文本情感分类研究进展** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6029&year_id=2020&quarter_id=6&falg=1)
+   *赵传君,王素格,李德玉*
+2. **多模态维度情感预测综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170644)
+   *李霞,卢官明,闫静杰,张正言*
+3. **评价对象抽取研究综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c170049)
+   *蒋盛益,郭林东,王连喜,符斯慧*
+4. **语言情感特征提取及其降维方法综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lzt-20181213153256.pdf)
+   *刘振焘,徐建平,吴敏,曹卫华,陈略峰,丁学文,郝曼,谢桥*
+5. **情感词典构建综述** 中文信息学报 2016 [论文](http://jcip.cipsc.org.cn/CN/abstract/abstract2269.shtml)
+   *梅莉莉,黄河燕,周新宇,毛先领*
+6. **情感词典自动构建方法综述** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18838)
+   *王科,夏睿*
+7. **文本情感分析** 软件学报 2010 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3832&journal_id=jos)
+   *赵妍妍,秦 兵,刘 挺*
+8. **文本意见挖掘综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=989)
+   *姚天昉,程希文,徐飞玉,汉思·乌思克尔特,王睿*
+
+##### [事件关系检测](#content)
+
+1. **事件关系检测的任务体系概述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=227)
+   *杨雪蓉,洪宇,陈亚东,姚建民,朱巧明*
+
+#### [顶层任务](#content)
+
+##### [机器翻译](#content)
 
 1. **神经机器翻译前沿综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2994)
    *冯洋,邵晨泽*
@@ -277,45 +270,76 @@
 12. **机器翻译中词典和文法的关系** 中文信息学报 1988 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=358)
     *董振东*
 
-#### [多模态](#content)
+##### [文本复述](#content)
 
-1. **从视觉到文本:图像描述生成的研究进展综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2995)
-   *魏忠钰,范智昊,王瑞泽,承怡菁,赵王榕,黄萱菁*
-2. **唇读研究进展与展望** 自动化学报 2020 [论文](http://www.aas.net.cn/article/exportPdf?id=bbf2532a-afb0-4117-bd7b-9170d140f287)
-   *陈小鼎,盛常冲,匡纲要,刘丽*
-3. **图像的文本描述方法研究综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2543)
-   *马龙龙,韩先培,孙乐*
-4. **多模态维度情感预测综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170644)
-   *李霞,卢官明,闫静杰,张正言*
-5. **基于深度学习语音分离技术的研究现状与进展** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18873)
-   *刘文举,聂帅,梁山,张学良*
-6. **语音情感识别研究进展综述** 软件学报 2014 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=4497&journal_id=jos)
-   *韩文静,李海峰,阮华斌,马琳*
-7. **非特定人手语识别进展及关键问题研究思路** 软件学报 2007 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=20070301&journal_id=jos)
-   *姜峰,高文,王春立,姚鸿勋,赵德斌*
-8. **初论计算机中文语音信息处理** 中文信息学报 1986 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=290)
-   *赵珀璋*
+1. **复述技术研究综述** 中文信息学报 2006 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2022)
+   *刘挺,李维刚,张宇,李生*
 
-#### [对话系统](#content)
+##### [文本摘要](#content)
+
+1. **文本摘要常用数据集和方法研究综述** 中文信息学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/pl-201745181647.pdf)
+   *侯圣峦,张书涵,费超群*
+2. **自动文摘评价方法综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=990)
+   *张瑾,王小磊,许洪波*
+3. **多文档自动文摘综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2082)
+   *秦兵,刘挺,李生*
+4. **中文自动文摘原理与方法探索** 中文信息学报 1998 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=623)
+   *吴岩,刘挺,王开铸,陈彬*
+
+##### [叙事生成](#content)
+
+1. **叙事生成方法研究综述** 中文信息学报 2013 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1713)
+   *诸峰,曹存根*
+
+##### [阅读理解](#content)
+
+1. **基于神经网络的机器阅读理解综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6048&year_id=2020&quarter_id=7&falg=1)
+   *顾迎捷,桂小林,李德福,等*
+
+##### [对话系统](#content)
 
 1. **基于深度学习的开放领域对话系统研究综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/42-7-1-201974192124.pdf)
    *陈晨,朱晴晴,严睿,柳军飞*
-2. **深度文本匹配综述** 计算机学报 2017 [论文](http://cjc.ict.ac.cn/online/onlinepaper/pl-201745181647.pdf)
-   *庞亮,兰艳艳,徐君,郭嘉丰,万圣贤,程学旗*
-3. **面向知识自动化的自动问答研究进展** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160667)
+2. **面向知识自动化的自动问答研究进展** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160667)
    *曾帅,王帅,袁勇,倪晓春,欧阳永基*
-4. **任务型人机对话系统中的认知技术——概念、进展及其未来** 计算机学报 2015 [论文](http://cjc.ict.ac.cn/online/onlinepaper/yk-2015112465445.pdf)
+3. **任务型人机对话系统中的认知技术——概念、进展及其未来** 计算机学报 2015 [论文](http://cjc.ict.ac.cn/online/onlinepaper/yk-2015112465445.pdf)
    *俞凯,陈露,陈博,孙锴,朱苏*
-5. **面向事实性问题的答案选择技术研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1823)
+4. **面向事实性问题的答案选择技术研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1823)
    *董燕举,蔡东风,白宇*
-6. **少儿图灵测试回顾** 软件学报 2004 [论文](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=20041202&flag=1)
+5. **少儿图灵测试回顾** 软件学报 2004 [论文](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=20041202&flag=1)
    *陆汝钤,张松懋*
-7. **自动问答综述** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1282)
+6. **自动问答综述** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1282)
    *郑实福,刘挺,秦兵,李生*
-8. **提问的技巧、算法及其应用** 软件学报 1993 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=19930602&journal_id=jos)
+7. **提问的技巧、算法及其应用** 软件学报 1993 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=19930602&journal_id=jos)
    *邵维忠,H.S.Soon*
 
-#### [计算社会科学](#content)
+##### [问答系统](#content)
+
+1. **基于表示学习的知识库问答研究进展与展望** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18872)
+   *刘康,张元哲,纪国良,来斯惟,赵军*
+2. **问答式检索技术及评测研究综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1957)
+   *吴友政,赵军,段湘煜,徐波*
+
+#### [其他应用](#content)
+
+##### [受控自然语言](#content)
+
+1. **受控自然语言的应用和处理** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2642)
+   *薛平*
+2. **受限语言子集的理论研究和探索** 中文信息学报 1998 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=614)
+   *宗成庆,宋今,陈肇雄,黄河燕*
+
+##### [文本可读性](#content)
+
+1. **文本可读性的自动分析研究综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2676)
+   *吴思远, 蔡建永, 于东等*
+
+##### [语言工程](#content)
+
+1. **语言工程的软件体系结构研究综述** 中文信息学报 2004 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1907)
+   *冯冲,陈肇雄,黄河燕*
+
+##### [计算社会科学](#content)
 
 1. **社交媒体话题检测与追踪技术研究综述** 中文信息学报 2019 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2792)
    *张仰森,段宇翔,黄改娟,蒋玉茹*
@@ -332,33 +356,17 @@
 7. **社会网络角色识别方法综述** 计算机学报 2017 [论文](http://cjc.ict.ac.cn/online/onlinepaper/zss-201732121610.pdf)
    *张树森,梁循,齐金山*
 
-#### [信息抽取](#content)
+##### [本体构建](#content)
 
-1. **深度学习实体关系抽取研究综述** 软件学报 2019 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5817&year_id=2019&quarter_id=6&falg=1)
-   *鄂海红,张文静,肖思琪,程瑞,胡莺夕,周筱松,牛佩晴*
-2. **基于远程监督的关系抽取研究综述** 中文信息学报 2019 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2841)
-   *白龙,靳小龙,席鹏弼,程学旗*
-3. **基于深度学习的关系抽取研究综述** 中文信息学报 2019 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2871)
-   *庄传志,靳小龙,朱伟建,刘静伟,白龙,程学旗*
-4. **从文本中构建领域本体技术综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/rfl-2019319125830.pdf)
+1. **从文本中构建领域本体技术综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/rfl-2019319125830.pdf)
    *任飞亮,沈继坤,孙宾宾,朱靖波*
-5. **否定与不确定信息抽取研究综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=226)
-   *邹博伟,周国栋,朱巧明*
 
-#### [文本识别](#content)
+##### [知识图谱](#content)
 
-1. **基于深度学习的自然场景文本检测与识别综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5988&year_id=2020&quarter_id=5&falg=1)
-   *王建新,王子亚,田萱*
-2. **自然场景图像中的文本检测综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170572)
-   *王润民,桑农,丁丁,陈杰,叶齐祥,高常鑫,刘丽*
-3. **汉语介词短语自动识别研究综述** 中文信息学报 2017 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2350)
-   *李洪政,晋耀红*
-4. **印刷体汉字识别技术在我国的发展和应用** 中文信息学报 1992 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=472)
-   *张炘中,沈兰生*
-5. **我国汉字识别研究的进展** 中文信息学报 1987 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=316)
-   *张炘中*
+1. **面向知识图谱的知识推理研究进展** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5551&year_id=2018&quarter_id=10&falg=1)
+   *官赛萍,靳小龙,贾岩涛,王元卓,程学旗*
 
-#### [信息检索](#content)
+##### [信息检索](#content)
 
 1. **搜索结果多样化研究综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/dzc-2019121085059.pdf)
    *窦志成,秦绪博,文继荣*
@@ -366,33 +374,20 @@
    *郎皓,王斌,李锦涛,丁凡*
 3. **自然语言文档复制检测研究综述** 软件学报 2003 [论文](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=20031010&flag=1)
    *鲍军鹏,沈钧毅,刘晓东,宋擒豹*
+4. **微博检索的研究进展** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=79)
+   *卫冰洁,王斌,张帅,李鹏*
+5. **社会标注及其在信息检索中的应用研究综述** 中文信息学报 2010 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1382)
+   *靳延安,李瑞轩,文坤梅,辜希武,卢正鼎,段东圣*
+6. **搜索引擎查询推荐技术综述** 中文信息学报 2010 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1424)
+   *李亚楠,王斌,李锦涛*
+7. **Web检索查询意图分类技术综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1008)
+   *张森,王斌*
+8. **自然语言处理在信息检索中的应用综述** 中文信息学报 2007 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=715)
+   *王灿辉,张敏,马少平*
+9. **中文搜索引擎现状与展望** 中文信息学报 1999 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=757)
+   *都云程,卢献华*
 
-#### [实体推荐](#content)
-
-1. **面向搜索引擎的实体推荐综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/42-7-2-201974192218.pdf)
-   *黄际洲,孙雅铭,王海峰,刘挺*
-
-#### [情感分析](#content)
-
-1. **跨领域文本情感分类研究进展** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6029&year_id=2020&quarter_id=6&falg=1)
-   *赵传君,王素格,李德玉*
-2. **评价对象抽取研究综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c170049)
-   *蒋盛益,郭林东,王连喜,符斯慧*
-3. **语言情感特征提取及其降维方法综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lzt-20181213153256.pdf)
-   *刘振焘,徐建平,吴敏,曹卫华,陈略峰,丁学文,郝曼,谢桥*
-4. **情感词典构建综述** 中文信息学报 2016 [论文](http://jcip.cipsc.org.cn/CN/abstract/abstract2269.shtml)
-   *梅莉莉,黄河燕,周新宇,毛先领*
-5. **情感词典自动构建方法综述** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18838)
-   *王科,夏睿*
-6. **文本情感分析** 软件学报 2010 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3832&journal_id=jos)
-   *赵妍妍,秦 兵,刘 挺*
-
-#### [知识图谱](#content)
-
-1. **面向知识图谱的知识推理研究进展** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5551&year_id=2018&quarter_id=10&falg=1)
-   *官赛萍,靳小龙,贾岩涛,王元卓,程学旗*
-
-#### [推荐系统](#content)
+##### [推荐系统](#content)
 
 1. **融合社交信息的矩阵分解推荐方法研究综述** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5391&year_id=2018&quarter_id=2&falg=1)
    *刘华锋,景丽萍,于剑*
@@ -401,91 +396,69 @@
 3. **互联网推荐系统比较研究** 软件学报 2009 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3388&journal_id=jos)
    *许海玲,吴潇,李晓东,阎保平*
 
-#### [问答系统](#content)
+##### [语义搜索](#content)
 
-1. **基于表示学习的知识库问答研究进展与展望** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18872)
-   *刘康,张元哲,纪国良,来斯惟,赵军*
-2. **问答式检索技术及评测研究综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1957)
-   *吴友政,赵军,段湘煜,徐波*
+1. **基于语义的网络大数据组织与搜索** 计算机学报 2015 [论文](http://cjc.ict.ac.cn/online/onlinepaper/wcq-201511694358.pdf)
+   *吴纯青,任沛阁,王小峰*
 
-#### [阅读理解](#content)
+##### [实体推荐](#content)
 
-1. **基于神经网络的机器阅读理解综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6048&year_id=2020&quarter_id=7&falg=1)
-   *顾迎捷,桂小林,李德福,等*
+1. **面向搜索引擎的实体推荐综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/42-7-2-201974192218.pdf)
+   *黄际洲,孙雅铭,王海峰,刘挺*
 
-#### [文本可读性分析](#content)
+#### [多模态](#content)
 
-1. **文本可读性的自动分析研究综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2676)
-   *吴思远, 蔡建永, 于东等*
+##### [图像处理](#content)
 
-#### [资源与评价方法](#content)
+1. **基于深度学习的自然场景文本检测与识别综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5988&year_id=2020&quarter_id=5&falg=1)
+   *王建新,王子亚,田萱*
+2. **从视觉到文本:图像描述生成的研究进展综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2995)
+   *魏忠钰,范智昊,王瑞泽,承怡菁,赵王榕,黄萱菁*
+3. **唇读研究进展与展望** 自动化学报 2020 [论文](http://www.aas.net.cn/article/exportPdf?id=bbf2532a-afb0-4117-bd7b-9170d140f287)
+   *陈小鼎,盛常冲,匡纲要,刘丽*
+4. **图像的文本描述方法研究综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2543)
+   *马龙龙,韩先培,孙乐*
+5. **自然场景图像中的文本检测综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170572)
+   *王润民,桑农,丁丁,陈杰,叶齐祥,高常鑫,刘丽*
+6. **印刷体汉字识别技术在我国的发展和应用** 中文信息学报 1992 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=472)
+   *张炘中,沈兰生*
+7. **我国汉字识别研究的进展** 中文信息学报 1987 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=316)
+   *张炘中*
 
-1. **词汇计量研究与常用词知识库建设** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=252)
-   *俞士汶,朱学锋*
+##### [语音处理](#content)
 
-#### [机器学习](#content)
+1. **基于深度学习语音分离技术的研究现状与进展** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18873)
+   *刘文举,聂帅,梁山,张学良*
+2. **语音情感识别研究进展综述** 软件学报 2014 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=4497&journal_id=jos)
+   *韩文静,李海峰,阮华斌,马琳*
+3. **错音检测及其在语音教学中的应用综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1224)
+   *万济萍,肖云鹏,叶卫平*
+4. **口语自动翻译系统技术评析** 中文信息学报 1999 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=748)
+   *宗成庆,黄泰翼,徐波*
+5. **初论计算机中文语音信息处理** 中文信息学报 1986 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=290)
+   *赵珀璋*
 
-1. **Rademacher复杂度在统计学习理论中的研究** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160149)
-   *吴新星,张军平*
-
-#### [语言工程](#content)
-
-1. **语言工程的软件体系结构研究综述** 中文信息学报 2004 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1907)
-   *冯冲,陈肇雄,黄河燕*
-
-#### [指代消解](#content)
-
-1. **指代消解的基本方法和实现技术** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/Y2002/V16/I6/10)
-   *王厚峰*
-2. **共指消解研究方法综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=32)
-   *宋洋,王厚峰*
-3. **指代消解的基本方法和实现技术** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1277)
-   *王厚峰*
-
-#### [自然语言处理应用](#content)
+##### [手语处理](#content)
 
 1. **手语计算30年:回顾与展望** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/ydf-201916191553.pdf)
    *姚登峰,江铭虎,鲍泓,李晗静,阿布都克力木·阿布力孜*
 2. **中国手语信息处理述评** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2122)
    *姚登峰,江铭虎,阿布都克力木·阿布力孜,李晗静,哈里旦木·阿布都克里木,夏娣娜*
-3. **微博检索的研究进展** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=79)
-   *卫冰洁,王斌,张帅,李鹏*
-4. **倒排索引中的文档序号重排技术综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=80)
-   *史亮,张鸿,刘欣然,王勇,王斌*
-5. **微博及中文微博信息处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1661)
+3. **非特定人手语识别进展及关键问题研究思路** 软件学报 2007 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=20070301&journal_id=jos)
+   *姜峰,高文,王春立,姚鸿勋,赵德斌*
+
+#### [其它](#content)
+
+1. **中亚语言自然语言处理综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2560)
+   *吐尔根·依布拉音,卡哈尔江·阿比的热西提,艾山·吾买尔等*
+2. **面向自然语言处理的深度学习研究** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18934)
+   *奚雪峰,周国栋*
+3. **微博及中文微博信息处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1661)
    *文坤梅,徐帅,李瑞轩,辜希武,李玉华*
-6. **微博文本处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1624)
+4. **微博文本处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1624)
    *张剑峰,夏云庆,姚建民*
-7. **社会标注及其在信息检索中的应用研究综述** 中文信息学报 2010 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1382)
-   *靳延安,李瑞轩,文坤梅,辜希武,卢正鼎,段东圣*
-8. **搜索引擎查询推荐技术综述** 中文信息学报 2010 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1424)
-   *李亚楠,王斌,李锦涛*
-9. **错音检测及其在语音教学中的应用综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1224)
-   *万济萍,肖云鹏,叶卫平*
-10. **Web检索查询意图分类技术综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1008)
-    *张森,王斌*
-11. **自然语言处理在信息检索中的应用综述** 中文信息学报 2007 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=715)
-    *王灿辉,张敏,马少平*
-12. **话题检测与跟踪的评测及研究综述** 中文信息学报 2007 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=881)
-    *洪宇,张宇,刘挺,李生*
-13. **文档聚类综述** 中文信息学报 2006 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1997)
-    *刘远超,王晓龙,徐志明,关毅*
-14. **多文档自动文摘综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2082)
-    *秦兵,刘挺,李生*
-15. **基于内容的垃圾邮件过滤技术综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2066)
-    *王斌,潘文锋*
-16. **汉字键盘输入智能处理软件综述** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1306)
-    *陈一凡,朱亮*
-17. **口语自动翻译系统技术评析** 中文信息学报 1999 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=748)
-    *宗成庆,黄泰翼,徐波*
-18. **中文搜索引擎现状与展望** 中文信息学报 1999 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=757)
-    *都云程,卢献华*
-19. **中文自动文摘原理与方法探索** 中文信息学报 1998 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=623)
-    *吴岩,刘挺,王开铸,陈彬*
-20. **中文信息处理系统的性能准则——内部码、汉化程度及其它** 中文信息学报 1989 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=407)
-    *戴瀛洲,李成国*
-21. **浅谈汉英终端的发展和方略** 中文信息学报 1988 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=305)
-    *梁先宇,孔令人*
+5. **话题检测与跟踪的评测及研究综述** 中文信息学报 2007 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=881)
+   *洪宇,张宇,刘挺,李生*
 
 ## 机器学习论文列表
 
