@@ -178,7 +178,7 @@
 9. **浅谈汉英终端的发展和方略** 中文信息学报 1988 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=305)
    *梁先宇,孔令人*
 
-### [关键词提取](#content)
+### [文本挖掘](#content)
 
 #### [关键词提取](#content)
 
