@@ -484,7 +484,7 @@
 
 ## 机器学习论文列表
 
-#### [传统机器学习算法](#content)
+### [传统机器学习算法](#content)
 
 1. **关于统计学习理论与支持向量机** 自动化学报 2000 [论文](http://www.aas.net.cn/article/exportPdf?id=14696)
    *张学工*
@@ -513,7 +513,7 @@
 13. **基于覆盖的分类算法研究进展** 计算机学报 2007 [论文](http://cjc.ict.ac.cn/quanwenjiansuo/2007-08/hq.zip)
     *何清,史忠植*
 
-#### [优化方法](#content)
+### [优化方法](#content)
 
 1. **状态转移算法原理与应用** 自动化学报 2020 [论文](http://www.aas.net.cn/article/exportPdf?id=e9bf6cc2-4c68-45e5-8a59-1178e09b6482)
    *周晓君,阳春华,桂卫华*
@@ -526,7 +526,7 @@
 5. **约束优化进化算法** 软件学报 2009 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3363&journal_id=jos)
    *王 勇,蔡自兴,周育人,肖赤心*
 
-#### [深度学习](#content)
+### [深度学习](#content)
 
 1. **面向实时应用的深度学习研究综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5946&year_id=2020&quarter_id=9&falg=1)
    *张政馗,庞为光,谢文静,等*
@@ -563,7 +563,7 @@
 17. **神经网络的泛化理论和泛化方法** 自动化学报 2001 [论文](http://www.aas.net.cn/article/exportPdf?id=16399)
     *魏海坤,徐嗣鑫,宋文忠*
 
-#### [生成对抗网络](#content)
+### [生成对抗网络](#content)
 
 1. **基于生成对抗网络的模仿学习综述** 计算机学报  2020 [论文](http://cjc.ict.ac.cn/online/onlinepaper/ljh-2020119221607.pdf)
    *林嘉豪,章宗长,姜冲,郝建业*
@@ -572,7 +572,7 @@
 3. **生成式对抗网络GAN的研究进展与展望** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.y000003)
    *王坤峰,苟超,段艳杰,林懿伦,郑心湖,王飞跃*
 
-#### [强化学习](#content)
+### [强化学习](#content)
 
 1. **多智能体深度强化学习的若干关键科学问题** 自动化学报 2020 [论文](http://www.aas.net.cn/article/exportPdf?id=41ddf9f1-8977-45c9-b63b-e62e8f18059f)
    *孙长银,穆朝絮*
@@ -583,14 +583,14 @@
 4. **强化学习研究综述** 自动化学报 2004 [论文](http://www.aas.net.cn/article/exportPdf?id=16352)
    *高阳,陈世福,陆鑫*
 
-#### [在线学习](#content)
+### [在线学习](#content)
 
 1. **面向流数据分类的在线学习综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5916&year_id=2020&quarter_id=4&falg=1)
    *翟婷婷,高阳,朱俊武*
 2. **面向大数据分析的在线学习算法综述** 计算机研究与发展 2015 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150185)
    *李志杰,李元香,王峰,何国良,匡立*
 
-#### [无监督与半监督学习](#content)
+### [无监督与半监督学习](#content)
 
 1. **自编码神经网络理论及应用综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/yfn-201916192006.pdf)
    *袁非牛,章琳,史劲亭,夏雪,李钢*
@@ -603,14 +603,14 @@
 5. **半监督降维方法的实验比较** 软件学报 2011 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3928&journal_id=jos)
    *陈诗国,张道强*
 
-#### [零样本与小样本学习](#content)
+### [零样本与小样本学习](#content)
 
 1. **零样本学习研究进展** 自动化学报 2020 [论文](http://www.aas.net.cn/article/exportPdf?id=c824c063-44ed-45a8-979b-4d4a41c5963a)
    *张鲁宁,左信,刘建伟*
 2. **零样本图像分类综述:十年进展** 中国科学:信息科学 2019 [论文](https://doi.org/10.1360/N112018-00312)
    *冀中,汪浩然,于云龙,庞彦伟*
 
-#### [可解释性、安全与隐私](#content)
+### [可解释性、安全与隐私](#content)
 
 1. **机器学习中的隐私攻击与防御** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5904&year_id=2020&quarter_id=3&falg=1)
    *刘睿瑄,陈红,郭若杨,等*
@@ -737,7 +737,7 @@
 
 12. **算法作曲的研究进展** 软件学报 2006 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=20060205&journal_id=jos)
     *冯寅,周昌乐*
-#### [其他](#content)
+### [其他](#content)
 
 1. **数据标注研究综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5977&year_id=2020&quarter_id=2&falg=1)
    *蔡莉,王淑婷,刘俊晖,等*
