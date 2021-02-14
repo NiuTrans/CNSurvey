@@ -143,30 +143,27 @@
 
 #### [指代消解](#content)
 
-1. **指代消解的基本方法和实现技术** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/Y2002/V16/I6/10)
-   *王厚峰*
+1. **汉语零形回指消解研究综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/Y2020/V34/I3/1)
+   *蒋玉茹,张禹尧,毛腾,张仰森*
 
 2. **共指消解研究方法综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=32)
    *宋洋,王厚峰*
 
-3. **指代消解的基本方法和实现技术** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1277)
+3. **汉语零形回指研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1211)
+   *黄娴,张克亮*
+
+4. **指代消解的基本方法和实现技术** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1277)
    *王厚峰*
 
 #### [语言学](#content)
 
-1. **汉语零形回指消解研究综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/Y2020/V34/I3/1)
-   *蒋玉茹,张禹尧,毛腾,张仰森*
-
-2. **汉语零形回指研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1211)
-   *黄娴,张克亮*
-
-3. **现代汉语虚词用法知识库建设综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=250)
+1. **现代汉语虚词用法知识库建设综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=250)
    *张坤丽,昝红英,柴玉梅,韩英杰,赵丹*
 
-4. **汉语复句信息处理研究二十年** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=33)
+2. **汉语复句信息处理研究二十年** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=33)
    *吴锋文*
 
-5. **汉语复句的结构分析** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=528)
+3. **汉语复句的结构分析** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=528)
    *张仕仁*
 
 #### [中文信息处理](#content)
@@ -245,34 +242,37 @@
 
 #### [情感分析](#content)
 
-1. **跨领域文本情感分类研究进展** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6029&year_id=2020&quarter_id=6&falg=1)
+1. **立场分析研究综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3054)
+   *刘玮,彭鑫,李超,王品,王丽宏*
+
+2. **跨领域文本情感分类研究进展** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6029&year_id=2020&quarter_id=6&falg=1)
    *赵传君,王素格,李德玉*
 
-2. **多模态维度情感预测综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170644)
+3. **多模态维度情感预测综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170644)
    *李霞,卢官明,闫静杰,张正言*
 
-3. **评价对象抽取研究综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c170049)
+4. **评价对象抽取研究综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c170049)
    *蒋盛益,郭林东,王连喜,符斯慧*
 
-4. **语言情感特征提取及其降维方法综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lzt-20181213153256.pdf)
+5. **语言情感特征提取及其降维方法综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lzt-20181213153256.pdf)
    *刘振焘,徐建平,吴敏,曹卫华,陈略峰,丁学文,郝曼,谢桥*
 
-5. **文本情绪分析综述** 计算机研究与发展 2018 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2018.20170055#1)
+6. **文本情绪分析综述** 计算机研究与发展 2018 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2018.20170055#1)
    *李然,林政,林海伦,王伟平,孟丹*
 
-6. **情感分类研究进展** 计算机研究与发展 2017 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2017.20160807#1)
+7. **情感分类研究进展** 计算机研究与发展 2017 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2017.20160807#1)
    *陈龙,管子玉,何金红,彭进业*
 
-7. **情感词典构建综述** 中文信息学报 2016 [论文](http://jcip.cipsc.org.cn/CN/abstract/abstract2269.shtml)
+8. **情感词典构建综述** 中文信息学报 2016 [论文](http://jcip.cipsc.org.cn/CN/abstract/abstract2269.shtml)
    *梅莉莉,黄河燕,周新宇,毛先领*
 
-8. **情感词典自动构建方法综述** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18838)
+9. **情感词典自动构建方法综述** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18838)
    *王科,夏睿*
 
-9. **文本情感分析** 软件学报 2010 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3832&journal_id=jos)
-   *赵妍妍,秦 兵,刘 挺*
+10. **文本情感分析** 软件学报 2010 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3832&journal_id=jos)
+      *赵妍妍,秦 兵,刘 挺*
 
-10. **文本意见挖掘综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=989)
+11. **文本意见挖掘综述** 中文信息学报 2008 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=989)
     *姚天昉,程希文,徐飞玉,汉思·乌思克尔特,王睿*
 
 #### [事件关系检测](#content)
