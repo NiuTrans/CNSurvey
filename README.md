@@ -1,6 +1,6 @@
 # 中文综述文章列表（自然语言处理&机器学习）
 
-在本项目中，我们整理了《中文信息学报》、《计算机学报》、《软件学报》、《自动化学报》、《电子学报》、《计算机研究与发展》、《中国科学：信息科学》近年来在自然语言处理和机器学习领域的综述论文（共290篇），将其按照不同研究领域进行分类，并提供了论文的获取网址。
+在本项目中，我们整理了《中文信息学报》、《计算机学报》、《软件学报》、《自动化学报》、《电子学报》、《计算机研究与发展》、《中国科学：信息科学》近年来在自然语言处理和机器学习领域的综述论文（共306篇），将其按照不同研究领域进行分类，并提供了论文的获取网址。
 
 ## 类别索引
 
@@ -49,7 +49,6 @@
 >   - <a href="#语音处理">语音处理</a>
 >   - <a href="#手语处理">手语处理</a>
 > - <a href="#其它">其它</a>
->
 
 ### 机器学习
 
@@ -238,10 +237,13 @@
 
 #### [主题模型](#content)
 
-1. **基于深度学习的主题模型研究** 计算机学报 2020 [论文](http://cjc.ict.ac.cn/online/onlinepaper/hjj-2020514180351.pdf)
+1. **概率主题模型综述** 计算机学报 2021 [论文](http://cjc.ict.ac.cn/online/onlinepaper/hyn-20216780619.pdf)
+   *韩亚楠,刘建伟,罗雄麟*
+   
+2. **基于深度学习的主题模型研究** 计算机学报 2020 [论文](http://cjc.ict.ac.cn/online/onlinepaper/hjj-2020514180351.pdf)
    *黄佳佳,李鹏伟,彭敏,谢倩倩,徐超*
 
-2. **自然语言处理中主题模型的发展** 计算机学报 2011 [论文](http://cjc.ict.ac.cn/quanwenjiansuo/2011-8/xg.pdf)
+3. **自然语言处理中主题模型的发展** 计算机学报 2011 [论文](http://cjc.ict.ac.cn/quanwenjiansuo/2011-8/xg.pdf)
    *徐戈,王厚峰*
 
 #### [情感分析](#content)
@@ -288,43 +290,46 @@
 
 #### [机器翻译](#content)
 
-1. **神经机器翻译前沿综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2994)
+1. **稀缺资源语言神经网络机器翻译研究综述**  自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200103?viewType=HTML)
+	*李洪政,冯冲,黄河燕*
+
+2. **神经机器翻译前沿综述** 中文信息学报 2020 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2994)
    *冯洋,邵晨泽*
    
-2. **神经机器翻译综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lyc-20181213151149.pdf)
+3. **神经机器翻译综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lyc-20181213151149.pdf)
    *李亚超,熊德意,张民*
    
-3. **神经机器翻译前沿进展** 计算机研究与发展 2017 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2017.20160805#1)
+4. **神经机器翻译前沿进展** 计算机研究与发展 2017 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2017.20160805#1)
    *刘洋*
    
-4. **多策略机器翻译研究综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=78)
+5. **多策略机器翻译研究综述** 中文信息学报 2015 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=78)
    *李业刚,黄河燕,史树敏,冯冲,苏超*
    
-5. **机器翻译自动评价综述** 中文信息学报 2014 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=192)
+6. **机器翻译自动评价综述** 中文信息学报 2014 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=192)
    *李良友,贡正仙,周国栋*
    
-6. **机器翻译系统融合技术综述** 中文信息学报 2010 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1385)
+7. **机器翻译系统融合技术综述** 中文信息学报 2010 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1385)
    *李茂西,宗成庆*
    
-7. **统计机器翻译综述** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1803)
+8. **统计机器翻译综述** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1803)
    *刘群*
    
-8. **机器翻译评测的新进展** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1823)
+9. **机器翻译评测的新进展** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1823)
    *张剑,吴际,周明*
    
-9. **统计机器翻译综述** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1803)
-   *刘群*
+10. **统计机器翻译综述** 中文信息学报 2003 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1803)
+      *刘群*
    
-10. **日语用言格框架在机译系统中的应用** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=509)
+11. **日语用言格框架在机译系统中的应用** 中文信息学报 1994 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=509)
     *雍殿书*
     
-11. **机器翻译词义辨识对策** 中文信息学报 1990 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=389)
+12. **机器翻译词义辨识对策** 中文信息学报 1990 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=389)
     *李维,刘倬*
     
-12. **自然语言的歧义与机器翻译的对策** 中文信息学报 1989 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=377)
+13. **自然语言的歧义与机器翻译的对策** 中文信息学报 1989 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=377)
     *俞士汶*
     
-13. **机器翻译中词典和文法的关系** 中文信息学报 1988 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=358)
+14. **机器翻译中词典和文法的关系** 中文信息学报 1988 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=358)
     *董振东*
 
 #### [语言模型](#content)
@@ -366,39 +371,45 @@
 
 #### [对话系统](#content)
 
-1. **任务型对话系统研究综述** 计算机学报 2020 [论文](http://cjc.ict.ac.cn/online/onlinepaper/zyy-2020925185056.pdf)
+1. **稀缺资源语言神经网络机器翻译研究综述**  自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200103?viewType=HTML)
+   *李洪政, 冯冲, 黄河燕*
+	
+2. **任务型对话系统研究综述** 计算机学报 2020 [论文](http://cjc.ict.ac.cn/online/onlinepaper/zyy-2020925185056.pdf)
    *赵阳洋,王振宇,王佩,杨添,张睿,尹凯*
    
-2. **基于深度学习的开放领域对话系统研究综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/42-7-1-201974192124.pdf)
+3. **基于深度学习的开放领域对话系统研究综述** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/42-7-1-201974192124.pdf)
    *陈晨,朱晴晴,严睿,柳军飞*
    
-3. **面向知识自动化的自动问答研究进展** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160667)
+4. **面向知识自动化的自动问答研究进展** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160667)
    *曾帅,王帅,袁勇,倪晓春,欧阳永基*
    
-4. **对话系统评价方法综述** 中国科学:信息科学 2017 [论文](https://doi.org/10.1360/N112017-00125)
+5. **对话系统评价方法综述** 中国科学:信息科学 2017 [论文](https://doi.org/10.1360/N112017-00125)
    *张伟男,张杨子,刘挺*
    
-5. **任务型人机对话系统中的认知技术——概念、进展及其未来** 计算机学报 2015 [论文](http://cjc.ict.ac.cn/online/onlinepaper/yk-2015112465445.pdf)
+6. **任务型人机对话系统中的认知技术——概念、进展及其未来** 计算机学报 2015 [论文](http://cjc.ict.ac.cn/online/onlinepaper/yk-2015112465445.pdf)
    *俞凯,陈露,陈博,孙锴,朱苏*
    
-6. **面向事实性问题的答案选择技术研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1823)
+7. **面向事实性问题的答案选择技术研究综述** 中文信息学报 2009 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1823)
    *董燕举,蔡东风,白宇*
    
-7. **少儿图灵测试回顾** 软件学报 2004 [论文](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=20041202&flag=1)
+8. **少儿图灵测试回顾** 软件学报 2004 [论文](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=20041202&flag=1)
    *陆汝钤,张松懋*
    
-8. **自动问答综述** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1282)
+9. **自动问答综述** 中文信息学报 2002 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1282)
    *郑实福,刘挺,秦兵,李生*
    
-9. **提问的技巧、算法及其应用** 软件学报 1993 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=19930602&journal_id=jos)
-   *邵维忠,H.S.Soon*
+10. **提问的技巧、算法及其应用** 软件学报 1993 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=19930602&journal_id=jos)
+      *邵维忠,H.S.Soon*
 
 #### [问答系统](#content)
 
-1. **基于表示学习的知识库问答研究进展与展望** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18872)
+1. **检索式自动问答研究综述** 计算机学报 2021 [论文](http://cjc.ict.ac.cn/online/onlinepaper/zhaoy-20216781201.pdf)
+   *赵芸,刘德喜,万常选,刘喜平,廖国琼*
+	
+2. **基于表示学习的知识库问答研究进展与展望** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18872)
    *刘康,张元哲,纪国良,来斯惟,赵军*
 
-2. **问答式检索技术及评测研究综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1957)
+3. **问答式检索技术及评测研究综述** 中文信息学报 2005 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1957)
    *吴友政,赵军,段湘煜,徐波*
 
 #### [受控自然语言](#content)
@@ -596,32 +607,35 @@
 
 ### [其它](#content)
 
-1. **中亚语言自然语言处理综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2560)
+1. **图神经网络在自然语言处理中的应用** 中文信息学报  2021 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3096)
+   *陈雨龙,付乾坤,张岳*
+
+2. **中亚语言自然语言处理综述** 中文信息学报 2018 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=2560)
    *吐尔根·依布拉音,卡哈尔江·阿比的热西提,艾山·吾买尔等*
 
-2. **量子语言模型研究综述** 中国科学:信息科学 2018 [论文](https://doi.org/10.1360/N112018-00163)
+3. **量子语言模型研究综述** 中国科学:信息科学 2018 [论文](https://doi.org/10.1360/N112018-00163)
    *张鹏,马鑫典,宋大为*
 
-3. **基于微型人工语法范式的语言学习实证研究综述** 中国科学:信息科学 2018 [论文](https://doi.org/10.1360/N112018-00166 )
+4. **基于微型人工语法范式的语言学习实证研究综述** 中国科学:信息科学 2018 [论文](https://doi.org/10.1360/N112018-00166 )
    *耿立波,杨丽,杨亦鸣*
 
-4. **面向自然语言处理的深度学习研究** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18934)
+5. **面向自然语言处理的深度学习研究** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18934)
    *奚雪峰,周国栋*
 
-5. **微博数据挖掘研究综述** 计算机研究与发展 2014 [论文](http://crad.ict.ac.cn/CN/abstract/abstract2119.shtml)
+6. **微博数据挖掘研究综述** 计算机研究与发展 2014 [论文](http://crad.ict.ac.cn/CN/abstract/abstract2119.shtml)
    *丁兆云,贾焰,周斌*
 
-6. **微博及中文微博信息处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1661)
+7. **微博及中文微博信息处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1661)
    *文坤梅,徐帅,李瑞轩,辜希武,李玉华*
 
-7. **微博文本处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1624)
+8. **微博文本处理研究综述** 中文信息学报 2012 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1624)
    *张剑峰,夏云庆,姚建民*
 
-8. **话题检测与跟踪的评测及研究综述** 中文信息学报 2007 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=881)
+9. **话题检测与跟踪的评测及研究综述** 中文信息学报 2007 [论文](http://jcip.cipsc.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=881)
    *洪宇,张宇,刘挺,李生*
 
-9. **文本-视觉语音合成综述** 计算机研究与发展 2006 [论文](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1519)
-   *王志明,陶建华*
+10. **文本-视觉语音合成综述** 计算机研究与发展 2006 [论文](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1519)
+      *王志明,陶建华*
 
 ## 机器学习论文列表
 
@@ -664,7 +678,7 @@
     *何清,史忠植*
     
 13. **关于统计学习理论与支持向量机** 自动化学报 2000 [论文](http://www.aas.net.cn/article/exportPdf?id=14696)
-   *张学工*
+      *张学工*
 
 ### [优化方法](#content)
 
@@ -822,143 +836,166 @@
    *冀中,汪浩然,于云龙,庞彦伟*
 
 ### [可解释性、安全与隐私](#content)
-  
-1. **机器学习模型安全与隐私研究综述**  软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6131&flag=1&journal_id=jos&year_id=2021)
+
+1. **模糊测试技术综述** 计算机研究与发展 2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20201018#1)
+   *任泽众,郑晗,张嘉元,王文杰,冯涛,王鹤,张玉清*
+
+2. **机器学习模型安全与隐私研究综述**  软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6131&flag=1&journal_id=jos&year_id=2021)
    *纪守领,杜天宇,李进锋,沈超,李博*
    
-2. **机器学习安全攻击与防御机制研究进展和未来挑战** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6147&flag=1&journal_id=jos&year_id=2021)
+3. **机器学习安全攻击与防御机制研究进展和未来挑战** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6147&flag=1&journal_id=jos&year_id=2021)
    *李欣姣,吴国伟,姚琳,张伟哲,张宾*
    
-3. **机器学习的可解释性** 计算机研究与发展 2020 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190456)
+4. **机器学习的可解释性** 计算机研究与发展 2020 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190456)
    *陈珂锐,孟小峰*
    
-4. **机器学习中的隐私攻击与防御** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5904&year_id=2020&quarter_id=3&falg=1)
+5. **机器学习中的隐私攻击与防御** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5904&year_id=2020&quarter_id=3&falg=1)
    *刘睿瑄,陈红,郭若杨,等*
    
-5. **机器学习隐私保护研究综述** 软件学报 2020 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6052&year_id=2020&quarter_id=7&falg=1)
+6. **机器学习隐私保护研究综述** 软件学报 2020 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6052&year_id=2020&quarter_id=7&falg=1)
    *谭作文,张连福*
    
-6. **机器学习系统的隐私和安全问题综述** 计算机研究与发展 2019 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20190437#1)
+7. **机器学习系统的隐私和安全问题综述** 计算机研究与发展 2019 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20190437#1)
    *何英哲,胡兴波,何锦雯,孟国柱,陈恺*
    
-7. **人工智能系统安全与隐私风险** 计算机研究与发展 2019 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20190415#1)
+8. **人工智能系统安全与隐私风险** 计算机研究与发展 2019 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20190415#1)
    *陈宇飞,沈超,王骞,李琦,王聪,纪守领,李康,管晓宏*
    
-8. **机器学习模型可解释性方法、应用与安全研究综述** 计算机研究与发展 2019 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20190540#1)
+9. **机器学习模型可解释性方法、应用与安全研究综述** 计算机研究与发展 2019 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20190540#1)
    *纪守领,李进锋,杜天宇,李博*
 
 ### [机器学习应用](#content)
 
 #### [计算机视觉](#content)
 
-1. **基于深度学习的数字病理图像分割综述与展望**  软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6205&flag=1&journal_id=jos&year_id=2021)
+1. **视频萃取** 中国科学：信息科学 2021 [论文](https://doi.org/10.1360/SSI-2020-0165)
+   *李学龙 , 赵斌*
+   
+2. **基于乳腺X线摄影的肿块检测综述** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c180662?viewType=HTML)
+   *王俊茜, 徐勇, 孙利雷, 蒲祖辉*
+   
+3. **深度学习方法在糖尿病视网膜病变诊断中的应用** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c190069?viewType=HTML)
+   *范家伟, 张如如, 陆萌, 何佳雯, 康霄阳, 柴文俊, 石珅达, 宋美娜, 鄂海红, 欧中洪*
+   
+4. **基于深度学习的表面缺陷检测方法综述** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c190811?viewType=HTML)
+   *陶显, 侯伟, 徐德*
+   
+5. **目标检测模型及其优化方法综述** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c190756?viewType=HTML)
+   *蒋弘毅, 王永娟, 康锦煜*
+   
+6. **基于图像和视频信息的社交关系理解研究综述** 计算机学报 2021 [论文](http://cjc.ict.ac.cn/online/onlinepaper/wz-20216780932.pdf)
+   *王正,吴斌,王文哲,滕一阳, 帅杰,肖云鹏,白婷*
+   
+7. **神经形态视觉传感器的研究进展及应用综述** 计算机学报 2021 [论文](http://cjc.ict.ac.cn/online/onlinepaper/ljn-20216781514.pdf)
+   *李家宁,田永鸿*
+   
+8. **基于深度学习的数字病理图像分割综述与展望**  软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6205&flag=1&journal_id=jos&year_id=2021)
    *宋杰,肖亮,练智超,蔡子贇,蒋国平*
    
-2. **深度伪造与检测技术综述**  软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6140&flag=1&journal_id=jos&year_id=2021)
+9. **深度伪造与检测技术综述**  软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6140&flag=1&journal_id=jos&year_id=2021)
    *李旭嵘,纪守领,吴春明,刘振广,邓水光,程鹏,杨珉,孔祥维*
    
-3. **全景分割研究综述** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200657?viewType=HTML)
-   *徐鹏斌,瞿安国,王坤峰,李大字*
+10. **全景分割研究综述** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200657?viewType=HTML)
+      *徐鹏斌,瞿安国,王坤峰,李大字*
    
-4. **深度学习在视频对象分割中的应用与展望** 计算机学报 2021 [论文](http://cjc.ict.ac.cn/online/onlinepaper/cj-202128100702.pdf)
-   *陈加,陈亚松,李伟浩,田元,刘智,何英*
+11. **深度学习在视频对象分割中的应用与展望** 计算机学报 2021 [论文](http://cjc.ict.ac.cn/online/onlinepaper/cj-202128100702.pdf)
+    *陈加,陈亚松,李伟浩,田元,刘智,何英*
+    
+12. **基于深度学习的图像隐写研究进展** 计算机研究与发展 2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20200360)
+    *付章杰, 李恩露, 程旭, 黄永峰, 胡雨婷*
+    
+13. **基于U-Net结构改进的医学影像分割技术综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6104&flag=1&journal_id=jos&year_id=2021)
+    *殷晓航,王永才,李德英*
+    
+14. **多尺度目标检测的深度学习研究综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6166&flag=1&journal_id=jos&year_id=2021)
+    *陈科圻,朱志亮,邓小明,马翠霞,王宏安*
+    
+15. **基于深度学习的图像隐写分析综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6135&flag=1&journal_id=jos&year_id=2021)
+     *陈君夫,付章杰,张卫明,程旭,孙星明*
+    
+16. **基于深度学习的单幅图片超分辨率重构研究进展** 自动化学报 2020 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c190031?viewType=HTML)
+    *张宁,王永成,张欣,徐东东*
+    
+17. **基于深度学习的场景分割算法研究综述** 计算机研究与发展 2020 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190513)
+      *张蕊,李锦涛*
    
-5. **基于深度学习的图像隐写研究进展** 计算机研究与发展 2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20200360)
-   *付章杰, 李恩露, 程旭, 黄永峰, 胡雨婷*
+18. **弱监督场景下的行人重识别研究综述** 软件学报 2020 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6083&year_id=2020&quarter_id=9&falg=1)
+     *祁磊,于沛泽,高阳*
+    
+19. **基于深度学习的图像实例分割技术研究进展** 电子学报 2020 [论文](http://www.ejournal.org.cn/CN/abstract/abstract12215.shtml)
+     *梁新宇,林洗坤,权冀川,肖铠鸿*
+    
+20. **深度学习光流计算技术研究进展** 电子学报 2020 [论文](http://www.ejournal.org.cn/CN/abstract/abstract12083.shtml)
+     *张聪炫,周仲凯,陈震,葛利跃,黎明,江少锋,陈昊*
+    
+21. **基于深度学习的目标检测研究综述** 电子学报 2020 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11706.shtml)
+      *罗会兰,陈鸿坤*
+    
+22. **目标跟踪算法综述** 自动化学报 2019 [论文](http://www.aas.net.cn/article/exportPdf?id=19523)
+      *孟琭,杨旭*
+    
+23. **多视角步态识别综述** 自动化学报 2019 [论文](http://www.aas.net.cn/article/exportPdf?id=19485)
+      *王科俊,丁欣楠,邢向磊,刘美辰*
+    
+24. **视觉注意力检测综述** 软件学报 2019 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5636&year_id=2019&quarter_id=2&falg=1)
+      *王文冠,沈建冰,贾云得*
+    
+25. **基于深度学习的图像语义分割方法综述** 软件学报 2019 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5659&year_id=2019&quarter_id=2&falg=1)
+      *田萱,王亮,丁琪*
+    
+26. **深度卷积神经网络的发展及其在计算机视觉领域的应用** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/zs-2019319124816.pdf)
+      *张顺,龚怡宏,王进军*
    
-6. **基于U-Net结构改进的医学影像分割技术综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6104&flag=1&journal_id=jos&year_id=2021)
-   *殷晓航,王永才,李德英*
+27. **RGB-D行为识别研究进展及展望** 自动化学报 2019 [论文](http://www.aas.net.cn/article/exportPdf?id=19484)
+      *胡建芳,王熊辉,郑伟诗,赖剑煌*
    
-7. **多尺度目标检测的深度学习研究综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6166&flag=1&journal_id=jos&year_id=2021)
-   *陈科圻,朱志亮,邓小明,马翠霞,王宏安*
+28. **跨模态医学图像预测综述** 电子学报 2019 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11210.shtml)
+      *周沛,陈后金,于泽宽,彭亚辉,李艳凤,杨帆*
    
-8. **基于深度学习的图像隐写分析综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6135&flag=1&journal_id=jos&year_id=2021)
-    *陈君夫,付章杰,张卫明,程旭,孙星明*
-
-9. **基于深度学习的单幅图片超分辨率重构研究进展** 自动化学报 2020 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c190031?viewType=HTML)
-   *张宁,王永成,张欣,徐东东*
+29. **基于深度网络的图像语义分割综述** 电子学报 2019 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11383.shtml)
+      *罗会兰,张云*
    
-10. **基于深度学习的场景分割算法研究综述** 计算机研究与发展 2020 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190513)
-   *张蕊,李锦涛*
-    
-11. **弱监督场景下的行人重识别研究综述** 软件学报 2020 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6083&year_id=2020&quarter_id=9&falg=1)
-    *祁磊,于沛泽,高阳*
-    
-12. **基于深度学习的图像实例分割技术研究进展** 电子学报 2020 [论文](http://www.ejournal.org.cn/CN/abstract/abstract12215.shtml)
-    *梁新宇,林洗坤,权冀川,肖铠鸿*
-    
-13. **深度学习光流计算技术研究进展** 电子学报 2020 [论文](http://www.ejournal.org.cn/CN/abstract/abstract12083.shtml)
-    *张聪炫,周仲凯,陈震,葛利跃,黎明,江少锋,陈昊*
-    
-14. **基于深度学习的目标检测研究综述** 电子学报 2020 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11706.shtml)
-    *罗会兰,陈鸿坤*
-    
-15. **目标跟踪算法综述** 自动化学报 2019 [论文](http://www.aas.net.cn/article/exportPdf?id=19523)
-    *孟琭,杨旭*
-    
-16. **多视角步态识别综述** 自动化学报 2019 [论文](http://www.aas.net.cn/article/exportPdf?id=19485)
-    *王科俊,丁欣楠,邢向磊,刘美辰*
-    
-17. **视觉注意力检测综述** 软件学报 2019 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5636&year_id=2019&quarter_id=2&falg=1)
-    *王文冠,沈建冰,贾云得*
-    
-18. **基于深度学习的图像语义分割方法综述** 软件学报 2019 [论文](www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5659&year_id=2019&quarter_id=2&falg=1)
-    *田萱,王亮,丁琪*
-    
-19. **深度卷积神经网络的发展及其在计算机视觉领域的应用** 计算机学报 2019 [论文](http://cjc.ict.ac.cn/online/onlinepaper/zs-2019319124816.pdf)
-    *张顺,龚怡宏,王进军*
-    
-20. **RGB-D行为识别研究进展及展望** 自动化学报 2019 [论文](http://www.aas.net.cn/article/exportPdf?id=19484)
-    *胡建芳,王熊辉,郑伟诗,赖剑煌*
-    
-21. **跨模态医学图像预测综述** 电子学报 2019 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11210.shtml)
-    *周沛,陈后金,于泽宽,彭亚辉,李艳凤,杨帆*
-    
-22. **基于深度网络的图像语义分割综述** 电子学报 2019 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11383.shtml)
-    *罗会兰,张云*
-    
-23. **基于深度学习的视频中人体动作识别进展综述** 电子学报 2019 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11428.shtml)
-    *罗会兰,童康,孔繁胜*
-    
-24. **视频显著性检测研究进展** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5560&year_id=2018&quarter_id=8&falg=1)
-    *丛润民,雷建军,付华柱,王文冠,黄庆明,牛力杰*
-    
-25. **深度学习在高光谱图像分类领域的研究现状与展望** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170190)
-    *张号逵,李映,姜晔楠*
-    
-26. **医学图像分析深度学习方法研究与挑战** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170153 )
-    *田娟秀,刘国才,谷珊珊,鞠忠建,刘劲光,顾冬冬*
-    
-27. **有遮挡人脸识别综述：从子空间回归到深度学习** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lxx-201811665617.pdf)
-    *李小薪,梁荣华*
-    
-28. **图像纹理分类方法研究进展和展望** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c160452)
-    *刘丽,赵凌君,郭承玉,王亮,汤俊*
-    
-29. **行人再识别技术综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170505)
-    *李幼蛟,卓力,张菁,李嘉锋,张辉*
-    
-30. **基于踪片Tracklet关联的视觉目标跟踪：现状与展望** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c170117)
-    *刘雅婷,王坤峰,王飞跃*
-    
-31. **深度学习在目标视觉检测中的应用进展与展望** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160822)
-    *张慧,王坤峰,王飞跃*
-    
-32. **基于深度学习的图像超分辨率复原研究进展** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160629)
-    *孙旭,李晓光,李嘉锋,卓力*
-    
-33. **基于深度卷积特征的细粒度图像分类研究综述** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160425)
-    *罗建豪,吴建鑫*
-    
-34. **深度学习在视频目标跟踪中的应用进展与展望** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18874)
-    *管皓,薛向阳,安志勇*
-    
-35. **基于深度学习的人体行为识别算法综述** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18875)
-    *朱煜,赵江坤,王逸宁,郑兵兵*
-    
-36. **基于视听信息的自动年龄估计方法** 软件学报 2011 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=4012&journal_id=jos)
-    *方尔庆,耿新*
-    
+30. **基于深度学习的视频中人体动作识别进展综述** 电子学报 2019 [论文](http://www.ejournal.org.cn/CN/abstract/abstract11428.shtml)
+      *罗会兰,童康,孔繁胜*
+   
+31. **视频显著性检测研究进展** 软件学报 2018 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5560&year_id=2018&quarter_id=8&falg=1)
+      *丛润民,雷建军,付华柱,王文冠,黄庆明,牛力杰*
+   
+32. **深度学习在高光谱图像分类领域的研究现状与展望** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170190)
+      *张号逵,李映,姜晔楠*
+   
+33. **医学图像分析深度学习方法研究与挑战** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170153 )
+      *田娟秀,刘国才,谷珊珊,鞠忠建,刘劲光,顾冬冬*
+   
+34. **有遮挡人脸识别综述：从子空间回归到深度学习** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/lxx-201811665617.pdf)
+      *李小薪,梁荣华*
+   
+35. **图像纹理分类方法研究进展和展望** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c160452)
+      *刘丽,赵凌君,郭承玉,王亮,汤俊*
+   
+36. **行人再识别技术综述** 自动化学报 2018 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2018.c170505)
+      *李幼蛟,卓力,张菁,李嘉锋,张辉*
+   
+37. **基于踪片Tracklet关联的视觉目标跟踪：现状与展望** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c170117)
+      *刘雅婷,王坤峰,王飞跃*
+   
+38. **深度学习在目标视觉检测中的应用进展与展望** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160822)
+      *张慧,王坤峰,王飞跃*
+   
+39. **基于深度学习的图像超分辨率复原研究进展** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160629)
+      *孙旭,李晓光,李嘉锋,卓力*
+   
+40. **基于深度卷积特征的细粒度图像分类研究综述** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160425)
+      *罗建豪,吴建鑫*
+   
+41. **深度学习在视频目标跟踪中的应用进展与展望** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18874)
+      *管皓,薛向阳,安志勇*
+   
+42. **基于深度学习的人体行为识别算法综述** 自动化学报 2016 [论文](http://www.aas.net.cn/article/exportPdf?id=18875)
+      *朱煜,赵江坤,王逸宁,郑兵兵*
+   
+43. **基于视听信息的自动年龄估计方法** 软件学报 2011 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=4012&journal_id=jos)
+      *方尔庆,耿新*
 
 #### [数据库系统](#content)
 
@@ -979,13 +1016,16 @@
 
 #### [软件系统](#content)
 
-1. **基于机器学习的软件漏洞挖掘方法综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6055&year_id=2020&quarter_id=7&falg=1)
+1. **Windows平台恶意软件智能检测综述** 计算机研究与发展 2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20200964#1)
+   *汪嘉来, 张超, 戚旭衍, 荣易*
+
+2. **基于机器学习的软件漏洞挖掘方法综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6055&year_id=2020&quarter_id=7&falg=1)
    *李韵,黄辰林,王中锋,等*
 
-2. **机器学习赋能的软件自适应性综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6076&year_id=2020&quarter_id=8&falg=1)
+3. **机器学习赋能的软件自适应性综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6076&year_id=2020&quarter_id=8&falg=1)
    *张明悦,金芝,赵海燕,等*
 
-3. **跨项目软件缺陷预测方法研究综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/cx-201811670104.pdf)
+4. **跨项目软件缺陷预测方法研究综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/cx-201811670104.pdf)
    *陈翔,王莉萍,顾庆,王赞,倪超,刘望舒,王秋萍*
 
 #### [其他应用](#content)
@@ -1019,7 +1059,7 @@
    
 10. **深度学习检索框架的前沿探索** 计算机研究与发展 2018 [论文](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2018.20180133#1)
       *郭嘉丰,范意兴*
-      
+    
 11. **基于非时序观察数据的因果关系发现综述** 计算机学报 2017 [论文](http://cjc.ict.ac.cn/online/onlinepaper/crc-2017611211102.pdf)
     *蔡瑞初,陈薇,张坤,郝志峰*
     
@@ -1034,32 +1074,38 @@
 
 ### [其他](#content)
 
-1. **机器意识研究综述** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200043?viewType=HTML)
+1. **图计算加速架构综述** 计算机研究与发展 2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20200110#1)
+   *严明玉, 李涵, 邓磊, 胡杏, 叶笑春, 张志敏, 范东睿, 谢源*
+
+2. **图神经网络加速结构综述** 计算机研究与发展  2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20210166#1)
+   *李涵, 严明玉, 吕征阳, 李文明, 叶笑春, 范东睿, 唐志敏*
+
+3. **机器意识研究综述** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200043?viewType=HTML)
    *秦瑞琳,周昌乐,晁飞*
    
-2. **深度信念网络研究现状与展望** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c190102?viewType=HTML)
+4. **深度信念网络研究现状与展望** 自动化学报 2021 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c190102?viewType=HTML)
    *王功明,乔俊飞,关丽娜,贾庆山*
    
-3. **分布式深度学习训练网络综述** 计算机研究与发展 2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20190881)
+5. **分布式深度学习训练网络综述** 计算机研究与发展 2021 [论文](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20190881)
    *朱泓睿,元国军,姚成吉,谭光明,王展,户忠哲,张晓扬,安学军*
    
-4. **可靠多模态学习综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6167&flag=1&journal_id=jos&year_id=2021)
+6. **可靠多模态学习综述** 软件学报 2021 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6167&flag=1&journal_id=jos&year_id=2021)
    *杨杨,詹德川,姜远,熊辉*
    
-5. **数据标注研究综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5977&year_id=2020&quarter_id=2&falg=1)
+7. **数据标注研究综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5977&year_id=2020&quarter_id=2&falg=1)
    *蔡莉,王淑婷,刘俊晖,等*
    
-6. **对抗样本生成技术综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5884&year_id=2020&quarter_id=1&falg=1)
+8. **对抗样本生成技术综述** 软件学报 2020 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5884&year_id=2020&quarter_id=1&falg=1)
    *潘文雯,王新宇,宋明黎,等*
    
-7. **量子机器学习算法综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/hym-201811665355.pdf)
+9. **量子机器学习算法综述** 计算机学报 2018 [论文](http://cjc.ict.ac.cn/online/onlinepaper/hym-201811665355.pdf)
    *黄一鸣,雷航,李晓瑜*
    
-8. **统计机器学习中参数可辨识性研究及其关键问题** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160720)
-   *冉智勇,胡包钢*
+10. **统计机器学习中参数可辨识性研究及其关键问题** 自动化学报 2017 [论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.2017.c160720)
+      *冉智勇,胡包钢*
    
-9. **解释学习进展** 软件学报 1993 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=19930508&journal_id=jos)
-   *石纯一,黄毅青*
+11. **解释学习进展** 软件学报 1993 [论文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=19930508&journal_id=jos)
+      *石纯一,黄毅青*
 
 
 ## 团队成员
